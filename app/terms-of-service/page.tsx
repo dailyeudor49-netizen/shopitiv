@@ -91,13 +91,13 @@ export default function TermsOfServicePage() {
             <div>
               <h2 className="text-xl font-bold text-gray-900 mb-3">10. Contact Information</h2>
               <p className="text-gray-600">
-                Shopitiv GmbH<br />
-                18 Mariahilfer Straße<br />
-                Vienna 1060<br />
-                Austria<br />
-                Email: info@shopitiv.com<br />
-                VAT: ATU 12345678<br />
-                Registered in Austria
+                Shopitiv SAS<br />
+                28 Boulevard Haussmann<br />
+                75009 Paris<br />
+                France<br />
+                Email: contact@shopitiv.fr<br />
+                VAT: FR 73 829461537<br />
+                Registered in France
               </p>
             </div>
           </div>

@@ -10,12 +10,12 @@ export default function Footer() {
           <div className="col-span-2 md:col-span-1">
             <h3 className="font-bold text-lg mb-3">Shopitiv</h3>
             <p className="text-gray-400 text-sm mb-3">
-              Premium tech gadgets and electronics at wholesale prices. Fast delivery worldwide.
+              L&apos;excellence en distribution tech. Produits haut de gamme pour revendeurs exigeants.
             </p>
             <div className="text-gray-400 text-sm space-y-1">
               <p>info@shopitiv.com</p>
-              <p>18 Mariahilfer Straße</p>
-              <p>Vienna 1060, Austria</p>
+              <p>28 Boulevard Haussmann</p>
+              <p>75009 Paris, France</p>
             </div>
           </div>
 
@@ -49,10 +49,10 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 pt-6 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-3 text-sm text-gray-500">
-          <p>&copy; {year} Shopitiv GmbH. All rights reserved.</p>
+          <p>&copy; {year} Shopitiv SAS. All rights reserved.</p>
           <div className="flex gap-4">
-            <span>VAT: ATU 12345678</span>
-            <span>Registered in Austria</span>
+            <span>VAT: FR 73 829461537</span>
+            <span>Registered in France</span>
           </div>
         </div>
       </div>
